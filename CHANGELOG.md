@@ -1,3 +1,7 @@
+## 0.5.1
+
+- [x] Ruby 2.7.7 support (@bpsimao-esl)
+
 ## 0.5
 
 - [x] Rails 7 support (@bpsimao-esl)
